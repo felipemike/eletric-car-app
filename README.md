@@ -31,7 +31,14 @@ Nosso aplicativo foi criado com o intuito de fornecer aos entusiastas de carros 
 Siga as instruções abaixo para obter uma cópia do projeto em sua máquina local para fins de desenvolvimento e teste:
 
 1. Clone este repositório: `git clone https://github.com/felipemike/eletric-car-app.git`
-2. ...
+2. Navegue até o diretório do projeto: `cd eletric-car-app`
+3. Abra o projeto em sua IDE preferida, como o Android Studio.
+4. Configure o ambiente de desenvolvimento, incluindo as versões apropriadas do Kotlin e do Android SDK.
+5. Execute o aplicativo em um emulador ou dispositivo físico para visualizar as funcionalidades e a interface do usuário.
+6. Explore o código-fonte para entender as diferentes partes do aplicativo e como ele funciona.
+7. Experimente fazer modificações ou adições ao projeto para melhorar suas habilidades em desenvolvimento Android.
+8. Para testar suas alterações, utilize as ferramentas de compilação e execução da sua IDE.
+9. Quando estiver satisfeito com suas modificações, você pode enviar um Pull Request para o repositório original se quiser compartilhar suas contribuições.
 
 ## 🤝 Contribuição
 
